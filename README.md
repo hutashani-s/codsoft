@@ -19,7 +19,11 @@ Here are some of the key ML projects included in this repository:
    - Dataset Link: https://www.kaggle.com/datasets/hijest/genre-classification-dataset-imdb/data
    - Performance Evaluation: Accuracy Score, Classification Report, Confusion Matrix
 
-4. **[Project 3: N/A]**  
+4. **[Project 3: Customer Churn Prediction]**
+   - Models: Logistic Regression, Random Forest Classification, Gradient Boosting
+   - Dataset: Bank Customer Churn Prediction by Shantanudhakadd
+   - Dataset Link: https://www.kaggle.com/datasets/shantanudhakadd/bank-customer-churn-prediction
+   - Performance Evaluation: Accuracy Score, Classification Report, Confusion Matrix  
 
 ---
 
